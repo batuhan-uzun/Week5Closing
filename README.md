@@ -1,4 +1,4 @@
-# Car Factory Console Application
+# Car Factory - Weekly 5 Closing
 
 This is a C# Console Application simulating a car production factory. Users can produce cars with specified properties and manage them using a user-friendly interface. The program demonstrates fundamental programming concepts such as object-oriented design, exception handling, and user input validation.
 
